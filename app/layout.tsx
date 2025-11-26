@@ -8,9 +8,9 @@ import ToasterProvider from "@/components/ToasterProver";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sumadhura Tea & Twilight",
+  title: "The Prestige City",
   description:
-    "Explore premium residential properties in Whitefield",
+    "Explore premium residential properties in Sarjapur",
 };
 
 export default function RootLayout({
